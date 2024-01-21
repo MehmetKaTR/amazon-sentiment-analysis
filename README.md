@@ -1,4 +1,4 @@
-** Amazon Product Reviews Sentiment Analysis
+## Amazon Product Reviews Sentiment Analysis
 
 This project focuses on sentiment analysis of product reviews from the Amazon website. 
 The goal is to analyze the sentiment expressed in these reviews and gain insights into customer opinions.
